@@ -1,4 +1,4 @@
-nagios-scripts/nagios-pligins
+nagios-scripts/nagios-plugins
 ==============
 
 check_kibana
